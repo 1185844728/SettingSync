@@ -1,0 +1,133 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ActionScript.add.unambiguous.imports.on.the.fly" value="true" />
+    <property name="CUSTOMIZE_ACTIONS" value="impo" />
+    <property name="ColorChooser.RecentColors" value="208-255-218-255,,,124-136-255-255,,,250-253-255-255,,,122-150-128-255,,,68-87-71-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.70941174" />
+    <property name="ConsoleQuickFilterPanel-expression" value="0|false|false|false|curre" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="SublimeMonokai" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.26086956" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.08113591" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.08841733" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.09713453" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.10775862" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.12099214" />
+    <property name="FrameworksFinderRecursivePanel[5]" value="0.18484288" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spring&#10;Inspections&#10;Ins&#10;autowire&#10;Autowiring for Bean Class" />
+    <property name="InstalledPluginsSearchHistory" value="maven&#10;jad&#10;lom&#10;lo&#10;Key promoter" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.11061947" />
+    <property name="KEYMAP" value="cut&#10;copy&#10;bookm&#10;b&#10;bookmar" />
+    <property name="MavenHelper.lastRadioButton" value="list" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="CheckStyle&#10;jrebel&#10;aws&#10;fin&#10;Power mode II" />
+    <property name="PluginConfigurable.selectionTab" value="2" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="SettingsSearchHistory" value="Install&#10;font&#10;java d&#10;jdk&#10;Encoding" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5149477" />
+    <property name="SonarLint.analyzeAllFiles.hideWarning" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10964912" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12300123" />
+    <property name="SpringBeansModulesPanel[2]" value="0.351983" />
+    <property name="SpringBeansModulesPanel[3]" value="0.1633987" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="maven&#10;sonar&#10;jad&#10;lombok&#10;Material Theme UI" />
+    <property name="android-component-compatibility-check" value="1503041162181" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="entityPackName" value="com.anlaiye.smsj.smsj.common.domain." />
+    <property name="errorCount" value="0" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.183" value="168d61c8f54" />
+    <property name="evlsprt2.183" value="16898505ff9" />
+    <property name="evlsprt3.14" value="16" />
+    <property name="evlsprt3.171" value="14" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="export.settings.path" value="D:\文档\settings.jar" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="E:/anlaiye/sns-3.0&#10;E:/anlaiye/smsj&#10;D:/360极速浏览器下载/JetBrainsMono-1.0.0.zip&#10;E:/anlaiye/order-center-v2&#10;E:/anlaiye/java_config&#10;E:/anlaiye/data-common&#10;E:/anlaiye/goods-center&#10;E:/anlaiye/us-goods-center&#10;E:/anlaiye/us-smsj&#10;D:/Program Files/Java/jdk1.8.0_181&#10;D:/Program Files/Java/jdk-13.0.1&#10;E:/anlaiye/order-center-v1&#10;E:/anlaiye/us-java_config&#10;E:/anlaiye/finance&#10;E:/anlaiye/transport-center&#10;E:/anlaiye/payment&#10;E:/anlaiye/sns-4.0&#10;E:/anlaiye/channel&#10;E:/anlaiye/central&#10;E:/anlaiye/myshop&#10;E:/anlaiye/mpns&#10;E:/anlaiye/us-order-center&#10;E:/anlaiye/search-center&#10;E:/anlaiye/us-search-center&#10;E:/anlaiye/data-sync&#10;E:/anlaiye/us-mpns&#10;E:/anlaiye/us-transport-center&#10;E:/anlaiye/common&#10;E:/anlaiye/us-payment&#10;E:/anlaiye/bip" />
+    <property name="file.gist.reindex.count" value="86189" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="find.popup.splitter" value="0.37636364" />
+    <property name="generateComments" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="java.anonymous.provider.file.structure.state" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1504506918796" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="E:/test/Demo1" />
+    <property name="lastTip" value="28" />
+    <property name="log.debug.categories" value="" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="plugins.preselection.path" value="E:/idea相关/插件" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="resource.bundle.editor.insert.empty.values" value="false" />
+    <property name="reuseEntity" value="false" />
+    <property name="search.everywhere.max.popup.width" value="1040" />
+    <property name="selected.color.option.type" value="FTL_KEYWORD" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Java EE Names" />
+    <property name="splitGenerate" value="false" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="suffixStr" value="Bean" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6150108" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>
