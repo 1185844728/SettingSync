@@ -4,11 +4,16 @@
     <property name="created">2018-08-10T16:34:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.6.0.0</property>
-    <property name="modified">2018-08-10T16:50:54</property>
+    <property name="modified">2020-03-31T11:14:32</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="28" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="FILESTATUS_COPIED" value="fd000" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+  </colors>
 </scheme>
